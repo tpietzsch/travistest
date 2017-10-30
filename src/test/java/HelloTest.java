@@ -7,6 +7,6 @@ public class HelloTest
 	@Test
 	public void testGet()
 	{
-		assertEquals( new Hello().get( 0 ), 100 );
+		assertEquals( new Hello().get( 0 ), 101 );
 	}
 }
